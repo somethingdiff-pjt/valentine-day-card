@@ -1,7 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 body {
-  background-color: #ddd;
+  background-image: url(history-of-valentines-day.jpg);
   font-family: 'Poiret One', Segoe UI Light, cursive;
+  background-size:unset;
 }
 
 #card {
